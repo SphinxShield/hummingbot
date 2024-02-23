@@ -35,6 +35,7 @@ connector_status = {
     'kraken': 'silver',
     'kucoin': 'silver',
     'kucoin_perpetual': 'silver',
+    'lbank': 'bronze',
     'mexc': 'bronze',
     'ndax': 'bronze',
     'ndax_testnet': 'bronze',
